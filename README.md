@@ -8,3 +8,19 @@
 
 
 ![alt text](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/blob/main/Data/Markdown_Images/Github_Model-01.png)
+
+### sgRNA Filtering Link
+* [sgRNA Filtering Notebooks](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/sgRNA_Filtering)
+
+### Figure Links
+* [Figure 1: Large Screen](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Large_Screen)
+* [Figure 2: Large Screen CM](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Large_Screen_CM)
+* [Figure 3: Validation Screen](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Validation_Screen)
+* [Figure 4: Validation Screen CM](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Validation_Screen_CM)
+
+
+### Contact
+* Daniel Armendariz: Daniel.Armendariz@utsouthwestern.edu
+
+### Citation
+* (TBA)
