@@ -26,7 +26,7 @@
 * [Figure 2: Large Screen CM](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Large_Screen_CM)
 * [Figure 3: Validation Screen](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Validation_Screen)
 * [Figure 4: Validation Screen CM](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Validation_Screen_CM)
-
+* [Figure 5: Knockout Screen](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Knockout_Screen)
 
 ### Contact
 * Daniel Armendariz: Daniel.Armendariz@utsouthwestern.edu
