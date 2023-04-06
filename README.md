@@ -18,6 +18,8 @@
 
 * [KO Screen Processing](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Knockout_Screen_Processing)
 
+* [KO Screen Het Processing](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Knockout_Screen_Het_Processing)
+
 
 ### sgRNA Filtering Link
 * [sgRNA Filtering Notebooks](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/sgRNA_Filtering)
@@ -27,6 +29,7 @@
 * [Figure 2: Large Screen CM](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Large_Screen_CM)
 * [Figure 3: Validation Screen](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Validation_Screen)
 * [Figure 4: Validation Screen CM](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Validation_Screen_CM)
+* [Figure 5: Knockout Het](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Knockout_Screen)
 * [Figure 6: Knockout Het](https://github.com/darmen04/Repression-of-CHD-associated-enhancers-delays-human-cardiomyocyte-lineage-commitment/tree/main/Notebooks/Knockout_Het_Screen)
 
 ### Contact
